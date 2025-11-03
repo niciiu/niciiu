@@ -26,9 +26,6 @@ Always exploring the intersection of **data, code, and impact**.
   <img src="https://img.shields.io/badge/LinkedIn-Nicki%20Utomo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>  
 
-<a href="https://www.instagram.com/nickidewi/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@nickidewi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>  
 
 🧩 Always learning, always building — thanks for stopping by!
 
